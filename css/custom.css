@@ -1,0 +1,45 @@
+// custom css
+
+.main-img {
+    overflow: hidden;    
+}
+
+body {
+    
+    background-color: white;
+}
+
+.navbar {
+    background-color: cornsilk;
+    font-family: chunk, sans-serif;
+    color:  #ccc;
+    border: none;
+    font-size: 16px;
+}
+
+
+.first {
+    
+    background-color: mediumspringgreen;
+}
+
+.second {
+    padding: 10px;
+    background-color: antiquewhite;
+    
+}
+
+.others {
+    background-color: beige;
+}
+
+.jumbotron {
+    
+    background-color: beige;
+    
+}
+
+.jumbotron h3 {
+    font-family: chunk;
+    color: black;
+}
